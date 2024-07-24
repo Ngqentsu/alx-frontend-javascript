@@ -1,0 +1,26 @@
+{
+  "name": "alx-frontend-javascript",
+  "version": "1.0.0",
+  "description": "Front end - A project setup with Jest, Babel, and ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "babel-node"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/node": "^7.0.0",
+    "babel-jest": "^27.0.0",
+    "eslint": "^7.0.0",
+    "jest": "^27.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ngqentsu/alx-frontend-javascript/issues"
+  },
+  "homepage": "https://github.com/Ngqentsu/alx-frontend-javascript#readme"
+}
